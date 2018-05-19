@@ -1,0 +1,12 @@
+<view class="right_words">
+  <text>{{yourMsg}}</text>
+</view>
+<view class="left_revices">
+  <text>{{revices}}</text>
+</view>
+
+
+<audio id="myAudio" autoplay   ></audio>
+<view class="tool">
+  <button bindtouchstart='sayStartHandel' bindtouchend='sayStopHandel' class="say_btn  weui-btn" type="primary">说</button>
+</view>

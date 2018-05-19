@@ -1,0 +1,52 @@
+{
+    "data": {
+        "result": [
+            {
+                "category": [
+                    "Java",
+                    "培训"
+                ],
+                "img": "http://a0.att.hudong.com/53/37/20300543714796150961372579153_140.jpg",
+                "sectionList": [
+                    {
+                        "sectionTitle": "传智播客领先的5大优势：",
+                        "sectionUrl": "http://www.baike.com/gwiki/传智播客&fr=xunfei#1"
+                    }
+                ],
+                "summary": "传智播客是致力于高素质软件开发人才培养的新三板挂牌公司（代码：839976）。旗下已涵盖黑马程序员及博学谷两大子品牌。现开设JavaEE、Android、PHP、UI、IOS、前端、C++、网络营销、Python、云计算、全栈工程师、产品经理等培训学科，直营分校遍布北京、上海、广州、深圳、武汉、郑州、西安、哈尔滨、长沙、济南、重庆、南京、杭州、成都、石家庄、合肥、太原等城市。",
+                "title": "传智播客",
+                "url": "http://www.baike.com/gwiki/传智播客"
+            }
+        ]
+    },
+    "rc": 0,
+    "semantic": [
+        {
+            "intent": "QUERY",
+            "slots": [
+                {
+                    "name": "keyword",
+                    "value": "传智播客"
+                }
+            ]
+        }
+    ],
+    "service": "baike",
+    "state": {
+        "fg::baike::default::default": {
+            "state": "default"
+        }
+    },
+    "text": "传智播客百科",
+    "uuid": "atn0054e38a@ch5c040dfc46516f1d01",
+    "used_state": {
+        "state_key": "fg::baike::default::default",
+        "state": "default"
+    },
+    "answer": {
+        "text": "传智播客是致力于高素质软件开发人才培养的新三板挂牌公司（代码：839976）。旗下已涵盖黑马程序员及博学谷两大子品牌。现开设JavaEE、Android、PHP、UI、IOS、前端、C++、网络营销、Python、云计算、全栈工程师、产品经理等培训学科，直营分校遍布北京、上海、广州、深圳、武汉、郑州、西安、哈尔滨、长沙、济南、重庆、南京、杭州、成都、石家庄、合肥、太原等城市。"
+    },
+    "dialog_stat": "dataInvalid",
+    "save_history": true,
+    "sid": "atn0054e38a@ch5c040dfc46516f1d01"
+}

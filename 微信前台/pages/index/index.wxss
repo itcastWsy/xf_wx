@@ -1,0 +1,21 @@
+@import "../../wxss/we_ui/weui.wxss";
+.say_btn{
+  border-radius: 50%;
+  width: 200rpx;
+  height: 200rpx;
+  padding-top:12rpx;
+  font-size: 70rpx;
+  position: fixed;
+  bottom: 0;
+  left: 50%;
+  transform: translateX(-50%);
+}
+
+.left_revices{
+
+
+}
+.right_words{
+ 
+ text-align: right;
+}

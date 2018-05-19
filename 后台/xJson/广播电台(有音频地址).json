@@ -1,0 +1,131 @@
+{
+  "code": "00000",
+  "desc": "成功",
+  "data": {
+      "rc": 0,
+      "semantic": [
+          {
+              "slots": [
+                  {
+                      "name": "insType",
+                      "value": "PLAY"
+                  }
+              ],
+              "intent": "INSTRUCTION"
+          }
+      ],
+      "dialog_stat": "dataInvalid",
+      "data": {
+          "result": [
+              {
+                  "aliasName": "无锡交通广播,无锡106.9",
+                  "img": "http://pic.qingting.fm/2013/channel_logo/2780.jpg!400",
+                  "fm": "",
+                  "name": "无锡人民广播电台交通广播",
+                  "description": "无 锡 交 通 广 播 简 介\r\n无锡交通广播隶属于无锡广播电视集团（台）是本地唯一一家24小时直播的电台，下设FM106.9汽车频率、AM1008故事戏曲广播。节目收听率和市场份额一直占据无锡市场第一，车上市场占有率高达50%，覆盖沪宁线及苏北、浙江等周边地区。\r\n无锡交通广播成立于1993年10月18日，2007年7月28日分频为FM106.9汽车频率、AM1008故事戏曲广播。\r\n品牌栏目：《1069直播无锡》、《欢乐直通车》、《大李小李有道理》、《第一路况》\r\n优秀主持人：思弋、大李（李大嘴）、孙敏、白杨、路宝宝等",
+                  "source": "qingtingfm",
+                  "url": "http://http.open.qingting.fm/786/2780.mp3?deviceid=12312&clientid=ZTQ2NTkwNGUtNmM1OS0xMWU3LTkyM2YtMDAxNjNlMDAyMGFk"
+              },
+              {
+                  "aliasName": "常州音乐广播,常州93.5",
+                  "img": "http://pic.qingting.fm/2013/channel_logo/2799.jpg!400",
+                  "fm": "93.5",
+                  "name": "常州人民广播电台音乐广播经典927",
+                  "description": "爱听935常州音乐电台：以音乐为主体，辅全天候信息资讯，强化服务听众理念。将倡导流行、注重娱乐和关注社会的观念，渗入你的听觉世界……",
+                  "source": "qingtingfm",
+                  "url": "http://http.open.qingting.fm/786/2799.mp3?deviceid=12312&clientid=ZTQ2NTkwNGUtNmM1OS0xMWU3LTkyM2YtMDAxNjNlMDAyMGFk"
+              },
+              {
+                  "aliasName": "FM106.1长沙交通电台,长沙106.1",
+                  "img": "http://pic.qingting.fm/2015/0706/201507061403232.png!400",
+                  "fm": "",
+                  "name": "FM106.1长沙交通电台",
+                  "description": "有车有态度，交通1061！",
+                  "source": "qingtingfm",
+                  "url": "http://http.open.qingting.fm/786/3967.mp3?deviceid=12312&clientid=ZTQ2NTkwNGUtNmM1OS0xMWU3LTkyM2YtMDAxNjNlMDAyMGFk"
+              },
+              {
+                  "aliasName": "湖南经广FM901  ,湖南90.1",
+                  "img": "http://pic.qingting.fm/2015/0722/20150722115001286.jpg!400",
+                  "fm": "",
+                  "name": "湖南经广FM901  ",
+                  "description": "",
+                  "source": "qingtingfm",
+                  "url": "http://http.open.qingting.fm/786/4983.mp3?deviceid=12312&clientid=ZTQ2NTkwNGUtNmM1OS0xMWU3LTkyM2YtMDAxNjNlMDAyMGFk"
+              },
+              {
+                  "aliasName": "常熟交通广播,苏州100.8",
+                  "img": "http://pic.qingting.fm/2012/0720/20120720034742619.jpg!400",
+                  "fm": "100.8",
+                  "name": "常熟人民广播电台交通广播",
+                  "description": "常熟交通广播，有路有车，有声有爱，提供常熟即时交通资讯，为开车人服务。",
+                  "source": "qingtingfm",
+                  "url": "http://http.open.qingting.fm/786/2791.mp3?deviceid=12312&clientid=ZTQ2NTkwNGUtNmM1OS0xMWU3LTkyM2YtMDAxNjNlMDAyMGFk"
+              },
+              {
+                  "aliasName": "徐州电台调频916,徐州91.6",
+                  "img": "http://pic.qingting.fm/2012/0809/20120809114006759.jpg!400",
+                  "fm": "91.6",
+                  "name": "徐州人民广播电台音乐广播",
+                  "description": "这里是徐州电台调频916，城市上空最美丽的声音~",
+                  "source": "qingtingfm",
+                  "url": "http://http.open.qingting.fm/786/4923.mp3?deviceid=12312&clientid=ZTQ2NTkwNGUtNmM1OS0xMWU3LTkyM2YtMDAxNjNlMDAyMGFk"
+              },
+              {
+                  "aliasName": "包头FM90.6auto mate radio,包头90.6",
+                  "img": "http://pic.qingting.fm/2016/0406/20160406102112335.png!400",
+                  "fm": "",
+                  "name": "包头FM90.6auto mate radio",
+                  "description": "",
+                  "source": "qingtingfm",
+                  "url": "http://http.open.qingting.fm/786/2234713.mp3?deviceid=12312&clientid=ZTQ2NTkwNGUtNmM1OS0xMWU3LTkyM2YtMDAxNjNlMDAyMGFk"
+              },
+              {
+                  "aliasName": "商丘新闻综合广播,商丘89.0",
+                  "img": "http://pic.qingting.fm/2016/1012/20161012090206.jpeg!400",
+                  "fm": "",
+                  "name": "商丘人民广播电台新闻广播",
+                  "description": "",
+                  "source": "qingtingfm",
+                  "url": "http://http.open.qingting.fm/786/3701722.mp3?deviceid=12312&clientid=ZTQ2NTkwNGUtNmM1OS0xMWU3LTkyM2YtMDAxNjNlMDAyMGFk"
+              },
+              {
+                  "aliasName": "巴中新闻综合广播,巴中88.5 巴中96.8",
+                  "img": "http://pic.qingting.fm/2017/0816/20170816120518811.jpg!400",
+                  "fm": "",
+                  "name": "巴中新闻综合广播",
+                  "description": "巴中新闻综合广播，城区调频FM88.5、96.8、区县调频FM96.8，现覆盖巴中市三县两区（巴州区、恩阳区、南江县、平昌县、通江县）及四川省的广元、南充、达州相邻地区，覆盖人口达500万。节目内容包含本地、省内、全国、国际新闻动态，民生百态，情感鸡汤，热点剖析，重点报道。　",
+                  "source": "qingtingfm",
+                  "url": "http://http.open.qingting.fm/786/7797747.mp3?deviceid=12312&clientid=ZTQ2NTkwNGUtNmM1OS0xMWU3LTkyM2YtMDAxNjNlMDAyMGFk"
+              },
+              {
+                  "aliasName": "陕西交通广播,陕西91.6",
+                  "img": "http://pic.qingting.fm/2016/0301/20160301160141923.png!400",
+                  "fm": "",
+                  "name": "陕西人民广播电台交通广播",
+                  "description": "快乐一座城，温暖每颗心！FM91.6陕西广播电视台交通广播",
+                  "source": "qingtingfm",
+                  "url": "http://http.open.qingting.fm/786/1601.mp3?deviceid=12312&clientid=ZTQ2NTkwNGUtNmM1OS0xMWU3LTkyM2YtMDAxNjNlMDAyMGFk"
+              }
+          ]
+      },
+      "used_state": {
+          "state_key": "fg::radio::default::default",
+          "state": "default"
+      },
+      "answer": {
+          "text": "正在为您播放无锡人民广播电台交通广播"
+      },
+      "service": "radio",
+      "state": {
+          "fg::radio::default::default": {
+              "state": "default"
+          }
+      },
+      "text": "听收音机",
+      "save_history": true,
+      "uuid": "atn00470534@ch5d090dfaf9c96f2001",
+      "sid": "rwa4408588f@chf84c0dfaf9c9000100"
+  },
+  "sid": "rwa4408588f@chf84c0dfaf9c9000100"
+}

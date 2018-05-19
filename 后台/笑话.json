@@ -1,0 +1,183 @@
+ {
+    "code": "00000",
+    "desc": "成功",
+    "data": {
+        "rc": 0,
+        "semantic": [
+            {
+                "slots": [],
+                "intent": "QUERY"
+            }
+        ],
+        "dialog_stat": "dataInvalid",
+        "data": {
+            "result": [
+                {
+                    "subCategory": "",
+                    "album": "",
+                    "author": "",
+                    "title": "走路看着点",
+                    "type": "0",
+                    "content": "某人笨，行路常被撞，且得瞎子，走路看着点！之赠语。终车祸而死，魂魄游荡再不受阻，方慰，迎头被一胖鬼撞翻。瞎子，走路看着点！胖鬼怒骂。",
+                    "albumUrl": "",
+                    "id": 42912,
+                    "tag": "",
+                    "category": "民间笑话",
+                    "mp3Url": "",
+                    "mp4Url": "",
+                    "status": 1
+                },
+                {
+                    "subCategory": "",
+                    "album": "",
+                    "author": "",
+                    "title": "遵守规矩",
+                    "type": "0",
+                    "content": "H君与朋友进入一家高档商场。进了店门后才走了两步，朋友忽见他在光滑的大理石地面上作滑冰状，甚感奇怪。问他，H君一边继续滑一边指着旁边的牌子，认真地说：既然来了，就要遵守这儿的规矩。那牌子上写着：小心地滑。",
+                    "albumUrl": "",
+                    "id": 42908,
+                    "tag": "",
+                    "category": "民间笑话",
+                    "mp3Url": "",
+                    "mp4Url": "",
+                    "status": 1
+                },
+                {
+                    "subCategory": "",
+                    "album": "",
+                    "author": "",
+                    "title": "亲爱的，不是说你呢",
+                    "type": "0",
+                    "content": "黑暗的电影院里，正放映着唯美的爱情片，突然，传出一个女性羞涩的声音：拜托，这不是你该摸的地方，请把手拿开。接着，又说道：亲爱的，不是说你呢。",
+                    "albumUrl": "",
+                    "id": 42949,
+                    "tag": "",
+                    "category": "民间笑话",
+                    "mp3Url": "",
+                    "mp4Url": "",
+                    "status": 1
+                },
+                {
+                    "subCategory": "",
+                    "album": "",
+                    "author": "",
+                    "title": "曾经有个女孩",
+                    "type": "0",
+                    "content": "曾经有个女孩子肯为我而死&ndash;跟你在一起,我宁愿死!曾经有个女孩子要与我共赴黄泉&ndash;你再不还我钱,我就和你同归于尽!曾经有个女孩子与我相约到下辈子&ndash;想追求我?下辈子吧!",
+                    "albumUrl": "",
+                    "id": 42953,
+                    "tag": "",
+                    "category": "民间笑话",
+                    "mp3Url": "",
+                    "mp4Url": "",
+                    "status": 1
+                },
+                {
+                    "subCategory": "",
+                    "album": "",
+                    "author": "",
+                    "title": "很有缘分",
+                    "type": "0",
+                    "content": "一男子在一次相亲会上看上了一个漂亮的女人，于是就主动搭讪说：感觉我们有某种缘分。并说自己有个富豪的爸爸。女子跟他聊天，寻问了他的家庭情况后，就再也没有联系。后来，所谓的缘分不幸被他自己言中了这位漂亮的女人成了他的后妈",
+                    "albumUrl": "",
+                    "id": 42956,
+                    "tag": "",
+                    "category": "民间笑话",
+                    "mp3Url": "",
+                    "mp4Url": "",
+                    "status": 1
+                },
+                {
+                    "subCategory": "",
+                    "album": "",
+                    "author": "",
+                    "title": "软的没劲",
+                    "type": "0",
+                    "content": "前几年在外打工！老板娘抽烟！发现包里没有了，叫我出去买！老板娘：去给我买包玉溪！我：要软的还是硬的？老板娘：软的！我：来硬的吧，软的没劲！老板娘雷人一句：谁说软的没劲？嘬着嘬着就有劲了！当时我就笑了，是我太YD了么？",
+                    "albumUrl": "",
+                    "id": 42921,
+                    "tag": "",
+                    "category": "民间笑话",
+                    "mp3Url": "",
+                    "mp4Url": "",
+                    "status": 1
+                },
+                {
+                    "subCategory": "",
+                    "album": "",
+                    "author": "",
+                    "title": "你太贪婪了",
+                    "type": "0",
+                    "content": "两个乞丐一同在闹市中乞讨，一个乞丐面前放个小碗，另一个乞丐面前放个水桶，不一会儿，小碗里盛满了钱，水桶里却一分钱也没有。为什么没有人给我钱呢？面前放水桶的乞丐自言自语道。你不仅贫穷，而且还很贪婪，一点也不值得同情。",
+                    "albumUrl": "",
+                    "id": 42937,
+                    "tag": "",
+                    "category": "民间笑话",
+                    "mp3Url": "",
+                    "mp4Url": "",
+                    "status": 1
+                },
+                {
+                    "subCategory": "",
+                    "album": "",
+                    "author": "",
+                    "title": "年少轻狂啊",
+                    "type": "0",
+                    "content": "一女同事讲起她初中事迹，说那会儿经常跟男生一起去打架，刀啊砖头什么上手操什么，身上经常挂彩，最厉害的一回在医院躺了一个多月。我问她就不怕吗，那货说我初中那会儿以为膀子砍断了还会长出来就觉得没什么大不了的",
+                    "albumUrl": "",
+                    "id": 42916,
+                    "tag": "",
+                    "category": "民间笑话",
+                    "mp3Url": "",
+                    "mp4Url": "",
+                    "status": 1
+                },
+                {
+                    "subCategory": "",
+                    "album": "",
+                    "author": "",
+                    "title": "１１０多少号",
+                    "type": "0",
+                    "content": "走在大街上，突然一人急忙忙地向我跑来。问：你好，请问110电话多少号啊？我：你傻啊？110多少号你不会打114问呀？说着那人就掏出了手机，拨打了114。",
+                    "albumUrl": "",
+                    "id": 42923,
+                    "tag": "",
+                    "category": "民间笑话",
+                    "mp3Url": "",
+                    "mp4Url": "",
+                    "status": 1
+                },
+                {
+                    "subCategory": "",
+                    "album": "",
+                    "author": "",
+                    "title": "结果还是怀孕了",
+                    "type": "0",
+                    "content": "小军这几天为女朋友的事弄的非常不开心。朋友问道：兄弟你怎么了？女朋友出什么事了？小军说：哎，我都吃了10多片避孕药了，结果女朋友还是怀孕了！",
+                    "albumUrl": "",
+                    "id": 42932,
+                    "tag": "",
+                    "category": "民间笑话",
+                    "mp3Url": "",
+                    "mp4Url": "",
+                    "status": 1
+                }
+            ]
+        },
+        "answer": {
+            "text": "请听笑话走路看着点"
+        },
+        "service": "joke",
+        "state": {
+            "fg::joke::default::default": {
+                "state": "default"
+            }
+        },
+        "text": "讲个笑话。",
+        "save_history": true,
+        "uuid": "atn00375793@ch5c040df995fe6f1d01",
+        "sid": "rwa70c19d3d@ch51360df995fd000100"
+    },
+    "sid": "rwa70c19d3d@ch51360df995fd000100",
+    "iat_code": "0"
+}

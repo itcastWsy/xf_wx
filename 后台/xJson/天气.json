@@ -1,0 +1,151 @@
+{
+  "code": "00000",
+  "desc": "成功",
+  "data": {
+      "rc": 0,
+      "semantic": [
+          {
+              "slots": [
+                  {
+                      "name": "datetime",
+                      "value": "今天",
+                      "normValue": "{\"datetime\":\"2018-03-07\",\"suggestDatetime\":\"2018-03-07\"}"
+                  },
+                  {
+                      "name": "location.city",
+                      "value": "CURRENT_CITY",
+                      "normValue": "CURRENT_CITY"
+                  },
+                  {
+                      "name": "location.poi",
+                      "value": "CURRENT_POI",
+                      "normValue": "CURRENT_POI"
+                  },
+                  {
+                      "name": "location.type",
+                      "value": "LOC_POI",
+                      "normValue": "LOC_POI"
+                  },
+                  {
+                      "name": "queryType",
+                      "value": "内容"
+                  },
+                  {
+                      "name": "subfocus",
+                      "value": "天气状态"
+                  }
+              ],
+              "intent": "QUERY"
+          }
+      ],
+      "dialog_stat": "DataValid",
+      "data": {
+          "result": [
+              {
+                  "date": "2018-03-07",
+                  "airQuality": "良",
+                  "weatherType": 2,
+                  "temp": 3,
+                  "airData": 73,
+                  "city": "北京",
+                  "windLevel": 0,
+                  "pm25": "53",
+                  "weather": "阴转多云",
+                  "humidity": "44%",
+                  "tempRange": "-2℃ ~ 6℃",
+                  "exp": {
+                      "ct": {
+                          "expName": "穿衣指数",
+                          "level": "冷",
+                          "prompt": "天气冷，建议着棉服、羽绒服、皮夹克加羊毛衫等冬季服装。年老体弱者宜着厚棉衣、冬大衣或厚羽绒服。"
+                      }
+                  },
+                  "dateLong": 1520352000,
+                  "lastUpdateTime": "2018-03-07 11:00",
+                  "wind": "北风微风"
+              },
+              {
+                  "date": "2018-03-08",
+                  "weatherType": 0,
+                  "city": "北京",
+                  "windLevel": 0,
+                  "weather": "晴",
+                  "tempRange": "-4℃ ~ 8℃",
+                  "dateLong": 1520438400,
+                  "lastUpdateTime": "2018-03-07 11:00",
+                  "wind": "南风微风"
+              },
+              {
+                  "date": "2018-03-09",
+                  "weatherType": 1,
+                  "city": "北京",
+                  "windLevel": 0,
+                  "weather": "多云",
+                  "tempRange": "-2℃ ~ 10℃",
+                  "dateLong": 1520524800,
+                  "lastUpdateTime": "2018-03-07 11:00",
+                  "wind": "西南风微风"
+              },
+              {
+                  "date": "2018-03-10",
+                  "weatherType": 0,
+                  "city": "北京",
+                  "windLevel": 0,
+                  "weather": "晴",
+                  "tempRange": "-2℃ ~ 12℃",
+                  "dateLong": 1520611200,
+                  "lastUpdateTime": "2018-03-07 11:00",
+                  "wind": "东南风微风"
+              },
+              {
+                  "date": "2018-03-11",
+                  "weatherType": 1,
+                  "city": "北京",
+                  "windLevel": 0,
+                  "weather": "多云转晴",
+                  "tempRange": "-1℃ ~ 11℃",
+                  "dateLong": 1520697600,
+                  "lastUpdateTime": "2018-03-07 11:00",
+                  "wind": "东南风微风"
+              },
+              {
+                  "date": "2018-03-12",
+                  "weatherType": 0,
+                  "city": "北京",
+                  "windLevel": 0,
+                  "weather": "晴",
+                  "tempRange": "3℃ ~ 14℃",
+                  "dateLong": 1520784000,
+                  "lastUpdateTime": "2018-03-07 11:00",
+                  "wind": "南风微风"
+              },
+              {
+                  "date": "2018-03-13",
+                  "weatherType": 0,
+                  "city": "北京",
+                  "windLevel": 0,
+                  "weather": "晴转多云",
+                  "tempRange": "4℃ ~ 15℃",
+                  "dateLong": 1520870400,
+                  "lastUpdateTime": "2018-03-07 11:00",
+                  "wind": "西南风微风"
+              }
+          ]
+      },
+      "answer": {
+          "text": "\"北京今天阴转多云\"，\"-2℃ ~ 6℃\"，\"北风微风\""
+      },
+      "service": "weather",
+      "state": {
+          "fg::weather::default::default": {
+              "state": "default"
+          }
+      },
+      "text": "今天天气怎么样？",
+      "save_history": true,
+      "uuid": "atn0046c8e6@ch5d090dfaf7466f2001",
+      "sid": "rwa76ae9607@chb9a30dfaf746000100"
+  },
+  "sid": "rwa76ae9607@chb9a30dfaf746000100",
+  "iat_code": "0"
+}

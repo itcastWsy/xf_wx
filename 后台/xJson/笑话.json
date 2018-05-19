@@ -1,0 +1,186 @@
+{
+  "code": "00000",
+  "desc": "成功",
+  "data": {
+      "rc": 0,
+      "semantic": [
+          {
+              "slots": [],
+              "intent": "QUERY"
+          }
+      ],
+      "dialog_stat": "dataInvalid",
+      "data": {
+          "result": [
+              {
+                  "subCategory": "",
+                  "album": "",
+                  "author": "",
+                  "title": "算术问题",
+                  "type": "0",
+                  "content": "病人：我不明白，别的医生都说我得的是不治之症，可是你怎么能肯定我的病会治好呢？医生：我经过严格核实的，统计数字表明：得了这种病的人十份之一是能好的。病人：太可怕了，你说我会好的，是在骗我。医生：别怕，你可是我的第十个患这病的病人，前九个都已经死了。这么简单的算术问题难道你得不出答案吗？",
+                  "albumUrl": "",
+                  "id": 45081,
+                  "tag": "",
+                  "category": "医疗笑话",
+                  "mp3Url": "",
+                  "mp4Url": "",
+                  "status": 1
+              },
+              {
+                  "subCategory": "",
+                  "album": "",
+                  "author": "",
+                  "title": "急着用钱",
+                  "type": "0",
+                  "content": "病人：半个月前，我用蜡壳包裹着吞下一枚金戒指，请帮我把它取出来。医生：天哪！你当时怎么不来动手术？病人：当时我并不急着用钱。",
+                  "albumUrl": "",
+                  "id": 45074,
+                  "tag": "",
+                  "category": "医疗笑话",
+                  "mp3Url": "",
+                  "mp4Url": "",
+                  "status": 1
+              },
+              {
+                  "subCategory": "",
+                  "album": "",
+                  "author": "",
+                  "title": "他的证是我办的",
+                  "type": "0",
+                  "content": "一个人生病了，需要做手术。将要手术的那天，他看到了给他主刀的医生便大叫起来：他的证是我办的！他的证是我办的！",
+                  "albumUrl": "",
+                  "id": 45012,
+                  "tag": "",
+                  "category": "医疗笑话",
+                  "mp3Url": "",
+                  "mp4Url": "",
+                  "status": 1
+              },
+              {
+                  "subCategory": "",
+                  "album": "",
+                  "author": "",
+                  "title": "外科医生的帐单",
+                  "type": "0",
+                  "content": "有位富翁的妻子不小心跌了个跟头，断了一根股骨。富翁请城里最好的外科医生为他妻子手术。医生用一根镙丝钉将病人的骨头接好了。手术很成功。医生向富翁收费5000美元。富翁很不高兴，认为医生只不过用了一根镙丝钉就收这么多钱，太不公平。于是他写了一封信给医生，要求列出收费明细账，很快他便收到了医生寄来的账单：1根镙丝钉：1美元；知道怎样放进去：4999美元；总计：5000美元。富翁没有再说什么。",
+                  "albumUrl": "",
+                  "id": 45090,
+                  "tag": "",
+                  "category": "医疗笑话",
+                  "mp3Url": "",
+                  "mp4Url": "",
+                  "status": 1
+              },
+              {
+                  "subCategory": "",
+                  "album": "",
+                  "author": "",
+                  "title": "不遵医嘱",
+                  "type": "0",
+                  "content": "一个县长被免职了，气成了植物人，被送到医院。医生诊断后说：给他念个官复原职的通知兴许就好了。妻想：既然要念，干脆念个厅长，让他高兴高兴。哪知县长一听挺身而起，大笑气绝。医叹：不遵医嘱，擅自加大剂量。",
+                  "albumUrl": "",
+                  "id": 45021,
+                  "tag": "",
+                  "category": "医疗笑话",
+                  "mp3Url": "",
+                  "mp4Url": "",
+                  "status": 1
+              },
+              {
+                  "subCategory": "",
+                  "album": "",
+                  "author": "",
+                  "title": "瑜伽法戒酒",
+                  "type": "0",
+                  "content": "拉尔辛嗜酒如命，医生建议他采取瑜伽法戒酒。过了好几天，医生碰见他妻子就问她丈夫做得怎么样。大夫，很糟糕，现在他可以倒立着喝酒了。",
+                  "albumUrl": "",
+                  "id": 45094,
+                  "tag": "",
+                  "category": "医疗笑话",
+                  "mp3Url": "",
+                  "mp4Url": "",
+                  "status": 1
+              },
+              {
+                  "subCategory": "",
+                  "album": "",
+                  "author": "",
+                  "title": "胃穿孔",
+                  "type": "0",
+                  "content": "某医院急诊室送来一位病人，医生见病人痛得厉害，就给他服了一片止痛药，可是病人仍疼痛不止。家属问：药为什么不见效？医生一边诊断一边说：噢，原来他患的是胃穿孔，止痛片可能从穿孔的地方漏出去了。",
+                  "albumUrl": "",
+                  "id": 45080,
+                  "tag": "",
+                  "category": "医疗笑话",
+                  "mp3Url": "",
+                  "mp4Url": "",
+                  "status": 1
+              },
+              {
+                  "subCategory": "",
+                  "album": "",
+                  "author": "",
+                  "title": "不治之症",
+                  "type": "0",
+                  "content": "王先生住院动手术，硬往主刀医生手中塞红包，大夫被纠缠不过，只得暂且收下。术后拆线，效果极佳。出院前医生退还红包，王先生却陡然昏厥，救醒后痛哭失声：红包都拒收，肯定是得了不治之症。",
+                  "albumUrl": "",
+                  "id": 45010,
+                  "tag": "",
+                  "category": "医疗笑话",
+                  "mp3Url": "",
+                  "mp4Url": "",
+                  "status": 1
+              },
+              {
+                  "subCategory": "",
+                  "album": "",
+                  "author": "",
+                  "title": "打消顾虑",
+                  "type": "0",
+                  "content": "病人：我很担心，这次手术恐怕要花费很多钱。医生：你别害怕，你可以留下遗嘱，叫你的继承人把你的手术费也继承下来。",
+                  "albumUrl": "",
+                  "id": 45078,
+                  "tag": "",
+                  "category": "医疗笑话",
+                  "mp3Url": "",
+                  "mp4Url": "",
+                  "status": 1
+              },
+              {
+                  "subCategory": "",
+                  "album": "",
+                  "author": "",
+                  "title": "已失记忆力",
+                  "type": "0",
+                  "content": "女人都愿意自己年青。一个中年妇女去医院去看病，当医生问她年龄时，她说已满二十岁。医生听了这话，在诊断书上写到：口齿清楚，已失记忆力。",
+                  "albumUrl": "",
+                  "id": 45064,
+                  "tag": "",
+                  "category": "医疗笑话",
+                  "mp3Url": "",
+                  "mp4Url": "",
+                  "status": 1
+              }
+          ]
+      },
+      "used_state": {
+          "state_key": "fg::joke::default::default",
+          "state": "default"
+      },
+      "answer": {
+          "text": "请听笑话算术问题"
+      },
+      "service": "joke",
+      "state": {
+          "fg::joke::default::default": {
+              "state": "default"
+          }
+      },
+      "text": "讲一个笑话",
+      "save_history": true,
+      "uuid": "atn0048ad6c@ch5d090dfb11266f2001",
+      "sid": "rwae52ed1a6@chf1ac0dfb112600f200"
+  },
+  "sid": "rwae52ed1a6@chf1ac0dfb112600f200"
+}
